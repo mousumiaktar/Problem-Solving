@@ -34,4 +34,4 @@ const area = Math.sqrt(
     s * (s-side1) * (s-side2) * (s-side3)
 );
 
-console.log(`The area if the triangle is: ${area}`);
+console.log(`The area of the triangle is: ${area}`);
