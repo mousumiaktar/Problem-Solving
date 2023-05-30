@@ -12,7 +12,7 @@ console.log(`The value of b = ${b}`);
 
 
 
-//JavaScript program to swap two String
+//JavaScript program to swap two String-------------
 let me = "R";
 let you = "F";
 
