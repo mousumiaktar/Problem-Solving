@@ -1,3 +1,4 @@
+//JavaScript program to swap two variables
 let a = 1;
 let b= 2;
 
